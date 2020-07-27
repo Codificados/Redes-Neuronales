@@ -3,3 +3,5 @@ PetImages
 venv
 x.pickle
 y.pickle
+models
+logs
