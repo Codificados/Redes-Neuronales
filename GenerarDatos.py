@@ -46,5 +46,5 @@ CATEGORIAS = ["Cat", "Dog"]
 IMAGE_SIZE = 100
 
 if __name__ == "__main__":
-    DATADIR = "C:\\Users\\kazp_\\PycharmProjects\\ClasificadorCatDogs\\PetImages"
+    DATADIR = "C:\\Users\\kazp_\\PycharmProjects\\Redes-Neuronales\\PetImages"
     Generar_datos()
